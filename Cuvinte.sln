@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuvinte", "Cuvinte\Cuvinte.csproj", "{FADF802F-AAF6-4F64-8FBA-C3C902C2493E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADF802F-AAF6-4F64-8FBA-C3C902C2493E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADF802F-AAF6-4F64-8FBA-C3C902C2493E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADF802F-AAF6-4F64-8FBA-C3C902C2493E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADF802F-AAF6-4F64-8FBA-C3C902C2493E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1174788B-B626-4091-8632-0A3F1569BB09}
+	EndGlobalSection
+EndGlobal
